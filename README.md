@@ -1,4 +1,4 @@
-# Vide-Background
+# Video-Background
 Using HTML and CSS
 Click Link for the Image - to see video, type it yourself
 https://github.com/genis96/Video-Background/issues/1#issue-480524634
